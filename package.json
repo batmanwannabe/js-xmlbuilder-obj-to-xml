@@ -1,0 +1,8 @@
+{
+  "name": "js-mpn6zk",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "xmlbuilder": "^15.1.1"
+  }
+}
